@@ -34,7 +34,7 @@ OBD-II Connector
 |---|----|
 1|
 2|
-3
+4|Chassis Ground
 6|CANH
 14|CANL
 16|Battery +12Vc
